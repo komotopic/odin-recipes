@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+    font-weight: 100;
+}
+
+
+
+.descrip-odd {
+    color: orangered;
+    font-size: x-large;
+}
+
+.descrip-even{
+    color:palegoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#salsa-descrip {
+    color: green;
+}
